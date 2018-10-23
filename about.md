@@ -1,3 +1,7 @@
+---
+layout: page
+sectionid: about
+---
 # About
 
 [NWERC 2018](nwerc.eu) - North Western Europe Regional Contest is a yearly programming competition, with participants from the nordics, Germany, UK, the Netherlands and Belgium. About 120 teams participate each year. The top 3-5 of NWERC advance to the international finals ICPC.

@@ -1,4 +1,8 @@
-Follow Lund University in the training before, and at NWERC 2018, the last qualification for the ICPC, World Championships in competitive programming in teams.
+---
+layout: page
+---
+
+Follow Lund University in the training before, and at [NWERC 2018](http://www.nwerc.eu/), the north western european qualification for the World Championships in competitive programming in teams - ICPC.
 
 ## Blog
 <ul class="posts">
