@@ -22,7 +22,7 @@ Here they should write a program that produces the correct output, for all the s
 
 The problems vary a lot in difficulty. For example problem C from the practice contest was very easy and only needed 2 lines of code, but problem B seems very hard and it took 56 minutes before the first team solved it.
 
-You can have a look at the problems from the practice contest in my previous [blog post](2018/11/24/practice-session-start.html).
+You can have a look at the problems from the practice contest in my previous [blog post]({{site.base_url}}/2018/11/24/practice-session-start.html).
 
 During the contest I plan to look at the problems and somewhat rate the difficulty, and report the results.
 
