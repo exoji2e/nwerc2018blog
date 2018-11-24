@@ -6,7 +6,7 @@ author: Måns Magnusson
 sectionid: blog
 ---
 
-Now the practice session has started! It features 3 problems and lasts for 2 hours.
+Now the practice session has started! It features 3 problems and lasts for 1.5 hours. It was planned for 2 hours, but the start was delayed, and the end was not pushed forward accordingly, I guess due to not messing up the entire schedule.
 
 The scoreboard can be found at [this link](http://www.nwerc.eu/scoreboard/public/?static=1).
 
