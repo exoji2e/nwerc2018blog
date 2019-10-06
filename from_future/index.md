@@ -6,7 +6,7 @@ sectionid: from_future
 
 ## `from __future__ import solution`
 
-![BJL](/assets/imgs/from_future.jpg)
+![BJL]({{site.baseurl}}/assets/imgs/from_future.jpg)
 
 Team members:
 - Jonatan Nilsson (D2)

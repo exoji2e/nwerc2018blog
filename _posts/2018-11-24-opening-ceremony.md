@@ -6,11 +6,11 @@ author: Måns Magnusson
 sectionid: blog
 ---
 
-Now we are at the opening ceremony, with 128 teams from 11 different countries. 
+Now we are at the opening ceremony, with 128 teams from 11 different countries.
 
-![opening-ceremony](/assets/imgs/181124/opening-ceremony.jpg)
+![opening-ceremony]({{site.baseurl}}/assets/imgs/181124/opening-ceremony.jpg)
 
-![mjb](/assets/imgs/181124/mjb.jpg)
+![mjb]({{site.baseurl}}/assets/imgs/181124/mjb.jpg)
 
 At 10:00 the practice contest starts, and lasts for 2 hours.
 
@@ -18,4 +18,4 @@ The main goal for the practice contest is to get familiar with the contest envir
 
 Each team has a workstation like this one:
 
-![computer](/assets/imgs/181124/computer.jpg)
+![computer]({{site.baseurl}}/assets/imgs/181124/computer.jpg)

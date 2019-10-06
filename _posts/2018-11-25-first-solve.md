@@ -6,8 +6,8 @@ author: Måns Magnusson
 sectionid: blog
 ---
 
-10 minutes into the contest the correct (green on scoreboard) has started to drop in. First was Saarland University with a 4 minute solution to problem I. 
+10 minutes into the contest the correct (green on scoreboard) has started to drop in. First was Saarland University with a 4 minute solution to problem I.
 
 Problem H and K has also already been solved.
 
-![score board](/assets/imgs/181125/scoreboard-10min.jpg)
+![score board]({{site.baseurl}}/assets/imgs/181125/scoreboard-10min.jpg)

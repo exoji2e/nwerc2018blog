@@ -6,7 +6,7 @@ sectionid: iiiii
 
 ## `¡i¡i¡`
 
-![AML](/assets/imgs/iiiii.jpg)
+![AML]({{site.baseurl}}/assets/imgs/iiiii.jpg)
 
 Team members:
 - Åke Wettergren (Pi4)

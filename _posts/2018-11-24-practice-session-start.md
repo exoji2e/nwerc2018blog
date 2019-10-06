@@ -10,14 +10,14 @@ Now the practice session has started! It features 3 problems and lasts for 1.5 h
 
 The scoreboard can be found at [this link](http://www.nwerc.eu/scoreboard/public/?static=1).
 
-![clock](/assets/imgs/181124/clock.jpg)
+![clock]({{site.baseurl}}/assets/imgs/181124/clock.jpg)
 
-![iii](/assets/imgs/181124/iii-start.jpg)
+![iii]({{site.baseurl}}/assets/imgs/181124/iii-start.jpg)
 
-![ff](/assets/imgs/181124/ff-start.jpg)
+![ff]({{site.baseurl}}/assets/imgs/181124/ff-start.jpg)
 
 The problems from the practice session were not available online before this blog post, so I took some photos of them:
 
-![A](/assets/imgs/181124/A.jpg)
-![B](/assets/imgs/181124/B.jpg)
-![C](/assets/imgs/181124/C.jpg)
+![A]({{site.baseurl}}/assets/imgs/181124/A.jpg)
+![B]({{site.baseurl}}/assets/imgs/181124/B.jpg)
+![C]({{site.baseurl}}/assets/imgs/181124/C.jpg)

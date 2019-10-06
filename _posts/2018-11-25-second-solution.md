@@ -10,4 +10,4 @@ sectionid: blog
 
 `iiiii` usually are a bit slower at coding the first problems, so I'm confident there is soon coming a submission from them as well.
 
-![score board](/assets/imgs/181125/scoreboard-22min.png)
+![score board]({{site.baseurl}}/assets/imgs/181125/scoreboard-22min.png)

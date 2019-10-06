@@ -8,7 +8,7 @@ sectionid: blog
 
 An hour into the competition most of the teams have solved problem A and C, including both teams from LTH:
 
-![scoreboard](/assets/imgs/181124/scoreboard-1h.jpg)
+![scoreboard]({{site.baseurl}}/assets/imgs/181124/scoreboard-1h.jpg)
 
 Problem B seems hard, and only 2 teams have solved it before the scoreboard freeze (meaning that we can't see if submissions are correct or too slow/incorrect/crashes until the end of the contest).
 

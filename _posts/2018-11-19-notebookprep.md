@@ -10,9 +10,8 @@ During NWERC the rules state that you are allowed to bring a notebook, containin
 
 Last week we did some preparations of the notebooks. The plan is that the notebooks will be finished by Wednesday the 21:th of November.
 
-![notebook](/assets/imgs/181114/notebook.jpg)
+![notebook]({{site.baseurl}}/assets/imgs/181114/notebook.jpg)
 
 The members of `from __future__ import solution` have been a team for quite a while now, and their notebook is very well studied, where all the code have been rewritten multiple times. You can find their notebook [at GitHub](https://github.com/LarsAstrom/Notebook/blob/master/main.pdf).
 
 `iiiii` did not have any notebook at NCPC, and have just started making one, from my template. They are learning a lot and it will hopefully help them on NWERC!
-

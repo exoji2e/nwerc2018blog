@@ -10,11 +10,11 @@ Tomorrow the contest will include around 10 problems with varying difficulty.
 
 The live score board of the competition will be found at [nwerc.eu/scoreboard/public/](http://www.nwerc.eu/scoreboard/public/).
 
-The problems will be possible to find 30 minutes after contest start at the open contest at [open.kattis.com/contests/nwerc18open](https://open.kattis.com/contests/nwerc18open). 
+The problems will be possible to find 30 minutes after contest start at the open contest at [open.kattis.com/contests/nwerc18open](https://open.kattis.com/contests/nwerc18open).
 
 Each team is given a work station like this:
 
-![computer](/assets/imgs/181124/computer.jpg)
+![computer]({{site.baseurl}}/assets/imgs/181124/computer.jpg)
 
 This we are not too happy about, it is very narrow between the benches, and it would be very nice with a larger screen, but it's equal for everybody.
 
